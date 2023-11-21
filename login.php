@@ -88,7 +88,7 @@ if (isset($_POST['submit'])) {
 						<button type="submit" class="login100-form-btn bg-primary" name="submit">
 							Login
                         </button>
-                        <a href="../himatek/" class="login100-form-btn" style="margin-left: 15px; background-color: #ff0f0f;">
+                        <a href="inde.php" class="login100-form-btn" style="margin-left: 15px; background-color: #ff0f0f;">
                             back</a>
 					</div>
 				</form>
