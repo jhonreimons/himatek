@@ -27,7 +27,7 @@
                         <img src="assets/img/itdel.jpg" class="rounded float-left" width="100px">
                     </div>
                     <div class="container px-4 px-lg-5">
-                        <a class="navbar-brand" href="index.html">HIMATEK</a>
+                        <a class="navbar-brand" href="index.php">HIMATEK</a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
                         aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"> Menu <i
                         class="fas fa-bars"></i>
